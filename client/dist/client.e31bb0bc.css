@@ -1,0 +1,33 @@
+.container{
+}
+
+input{
+    padding: 7px 15px;
+    border-radius: 15px;
+    border: 1px gray solid;
+    margin: 0 5px;
+}
+
+button{
+    background-color: darkblue;
+    border-radius: 15px;
+    border: none;
+    color: white;
+
+    padding: 7px 15px;
+    cursor: pointer;
+}
+
+body>* {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+body{
+    padding: 25px 10px;
+}
+
+/*# sourceMappingURL=/client.e31bb0bc.css.map */
